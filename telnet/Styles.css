@@ -1,0 +1,8 @@
+﻿.Banner
+{
+	background-image: url('./assets/telnet2ss.png');
+	background-position: center;
+	background-color: #000;
+	height: 261px;
+	vertical-align: bottom;
+}
